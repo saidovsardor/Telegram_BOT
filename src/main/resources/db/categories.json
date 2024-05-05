@@ -1,0 +1,22 @@
+[
+  {
+    "id": "6413a694-f835-45b6-a2d5-c0f1b655048b",
+    "categoryName": "Lavash",
+    "businessId": "3a964875-9435-43bb-8273-022053945ef6"
+  },
+  {
+    "id": "49e4d71b-b7ce-4f3c-9101-2fb84a99b617",
+    "categoryName": "Lavash1",
+    "businessId": "3a964875-9435-43bb-8273-022053945ef6"
+  },
+  {
+    "id": "d07f758a-7d1d-43ef-a24e-b211dae9595f",
+    "categoryName": "Telefonlar",
+    "businessId": "fc04a489-654c-4146-a29f-369645896700"
+  },
+  {
+    "id": "27e9b114-edae-41a3-ab8b-27e08ff7ec84",
+    "categoryName": "Muzlatgichlar",
+    "businessId": "fc04a489-654c-4146-a29f-369645896700"
+  }
+]

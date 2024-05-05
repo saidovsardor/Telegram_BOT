@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6f9bd5e3-8374-4e71-ac3f-fbbb67de859b",
+    "location": {
+      "longitude": 69.228573,
+      "latitude": 41.326346,
+      "horizontalAccuracy": null,
+      "livePeriod": null,
+      "heading": null,
+      "proximityAlertRadius": null
+    },
+    "businessId": "7fd80bd7-efa1-4b03-aa4c-421c2f046c23",
+    "isDelete": false
+  },
+  {
+    "id": "418ca8e4-13cf-4599-a1ed-2cd3b45907c0",
+    "location": {
+      "longitude": 69.228668,
+      "latitude": 41.326349,
+      "horizontalAccuracy": null,
+      "livePeriod": null,
+      "heading": null,
+      "proximityAlertRadius": null
+    },
+    "businessId": "7fd80bd7-efa1-4b03-aa4c-421c2f046c23",
+    "isDelete": false
+  },
+  {
+    "id": "ea8065be-c9c9-4d95-bafa-f4e4206de9f0",
+    "location": {
+      "longitude": 69.22864,
+      "latitude": 41.326341,
+      "horizontalAccuracy": null,
+      "livePeriod": null,
+      "heading": null,
+      "proximityAlertRadius": null
+    },
+    "businessId": "7fd80bd7-efa1-4b03-aa4c-421c2f046c23",
+    "isDelete": false
+  },
+  {
+    "id": "552374cb-7e7c-4f91-9ea1-98dd9522d1fc",
+    "location": {
+      "longitude": 69.228718,
+      "latitude": 41.326315,
+      "horizontalAccuracy": null,
+      "livePeriod": null,
+      "heading": null,
+      "proximityAlertRadius": null
+    },
+    "businessId": "7fd80bd7-efa1-4b03-aa4c-421c2f046c23",
+    "isDelete": false
+  },
+  {
+    "id": "c3573a46-7f3b-460e-a38d-cec7a188f548",
+    "location": {
+      "longitude": 69.22864,
+      "latitude": 41.326341,
+      "horizontalAccuracy": null,
+      "livePeriod": null,
+      "heading": null,
+      "proximityAlertRadius": null
+    },
+    "businessId": "7fd80bd7-efa1-4b03-aa4c-421c2f046c23",
+    "isDelete": false
+  },
+  {
+    "id": "922eb149-bb7e-4765-a52b-774b4a395d1d",
+    "location": {
+      "longitude": 69.228611,
+      "latitude": 41.326333,
+      "horizontalAccuracy": null,
+      "livePeriod": null,
+      "heading": null,
+      "proximityAlertRadius": null
+    },
+    "businessId": "7fd80bd7-efa1-4b03-aa4c-421c2f046c23",
+    "isDelete": false
+  }
+]

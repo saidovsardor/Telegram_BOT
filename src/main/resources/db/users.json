@@ -1,0 +1,28 @@
+[
+  {
+    "id": 5033023657,
+    "language": "UZBEK",
+    "username": "reimoffazizbek",
+    "fullName": "Azizbek Reimov",
+    "phoneNumber": "+998904217300",
+    "status": "CHECK_BUSINESS_APPLICATION_MENU",
+    "birthDate": "2005-08-01",
+    "role": "ADMIN",
+    "createTime": "2024-05-04T01:35:49.965367807",
+    "isDelete": false,
+    "isBan": false
+  },
+  {
+    "id": 616241032,
+    "language": "UZBEK",
+    "username": "ibodullayevic",
+    "fullName": "Sardorbek",
+    "phoneNumber": "+998990458075",
+    "status": "STARTED",
+    "birthDate": null,
+    "role": "BUSINESSMAN",
+    "createTime": "2024-05-04T21:47:43.15881322",
+    "isDelete": false,
+    "isBan": false
+  }
+]

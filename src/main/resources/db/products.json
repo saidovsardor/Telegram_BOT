@@ -1,0 +1,56 @@
+[
+  {
+    "id": "6959c226-259e-41a5-a7f0-958c23d7b489",
+    "productName": "Spicy Lavash",
+    "price": 12,
+    "description": "Tasty",
+    "photoUrl": null,
+    "count": 10,
+    "categoryID": "6413a694-f835-45b6-a2d5-c0f1b655048b"
+  },
+  {
+    "id": "2a78f38a-68e1-4870-b141-c7dc28f17d76",
+    "productName": "Cheese Lavash",
+    "price": 10,
+    "description": "Tasty",
+    "photoUrl": null,
+    "count": 12,
+    "categoryID": "6413a694-f835-45b6-a2d5-c0f1b655048b"
+  },
+  {
+    "id": "91319199-33a9-4de9-b7fe-cb853ec7b3ab",
+    "productName": "Iphone 14 pro",
+    "price": 15000000,
+    "description": "Telefon chiroyli",
+    "photoUrl": "URL",
+    "count": 2,
+    "categoryID": "d07f758a-7d1d-43ef-a24e-b211dae9595f"
+  },
+  {
+    "id": "e5fa1bfe-ad7b-4d66-a470-0268f52136a1",
+    "productName": "Iphone 14 pro max",
+    "price": 20000000,
+    "description": "Vashe chiroyli telefon)",
+    "photoUrl": "URL",
+    "count": 1,
+    "categoryID": "d07f758a-7d1d-43ef-a24e-b211dae9595f"
+  },
+  {
+    "id": "e2cf4f57-e9c7-4670-9661-6dab62a6f2ce",
+    "productName": "Samsung Galaxy S23 ultra",
+    "price": 15600000,
+    "description": "0",
+    "photoUrl": "URL",
+    "count": 5,
+    "categoryID": "d07f758a-7d1d-43ef-a24e-b211dae9595f"
+  },
+  {
+    "id": "36c1482b-3540-4b6d-bea2-357db5afe607",
+    "productName": "Artel kichik",
+    "price": 6500000,
+    "description": "kichik muzlatgich",
+    "photoUrl": "URL",
+    "count": 1,
+    "categoryID": "27e9b114-edae-41a3-ab8b-27e08ff7ec84"
+  }
+]

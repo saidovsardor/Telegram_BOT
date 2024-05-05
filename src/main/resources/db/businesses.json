@@ -1,0 +1,122 @@
+[
+  {
+    "id": "fc04a489-654c-4146-a29f-369645896700",
+    "ownerId": 5033023657,
+    "businessName": "Trio",
+    "businessType": "ELECTRONIC",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "dcbe2067-99c6-439c-a94a-66a9311895d0",
+    "ownerId": 5926407652,
+    "businessName": "Evos",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "617536e2-804f-48c6-9d8d-12656ec72047",
+    "ownerId": 5926407652,
+    "businessName": "Evos",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "58a1d198-c870-4296-8b4f-fe6392f4aaf8",
+    "ownerId": 5926407652,
+    "businessName": "Evos",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "5c9f4948-0c34-49c4-97ce-1920d9276ae1",
+    "ownerId": 5926407652,
+    "businessName": "Best Pharm",
+    "businessType": "MEDICINE",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "43f5f3f1-1669-4ff6-96a1-04cf81a7dc45",
+    "ownerId": 5926407652,
+    "businessName": "Evos",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "80efc6ac-a0fe-4d28-b8fe-568bd16bbe11",
+    "ownerId": 5926407652,
+    "businessName": "Best Pharm",
+    "businessType": "MEDICINE",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "bf148705-ee75-434f-b465-5bbf24754569",
+    "ownerId": 5926407652,
+    "businessName": "Evos",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "fbcd1df2-25cb-4e2a-847b-dd527cd32ad4",
+    "ownerId": 5926407652,
+    "businessName": "Oq Tepa Lavash",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "62d2cdd0-4566-4a38-a235-701bea3e60f4",
+    "ownerId": 5926407652,
+    "businessName": "Evos",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "b0fcedad-fd4c-4d2f-88c7-9c5d48d04fc7",
+    "ownerId": 5926407652,
+    "businessName": "Oq Tepa Lavash",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "e7baabf3-79bf-4915-98a3-a906871ca5fa",
+    "ownerId": 5926407652,
+    "businessName": "Evos",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "3a964875-9435-43bb-8273-022053945ef6",
+    "ownerId": 5926407652,
+    "businessName": "Oq Tepa Lavash",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "15614c13-83fd-4178-b4f7-50ef5faaf423",
+    "ownerId": 5926407652,
+    "businessName": "Oq Tepa Lavash",
+    "businessType": "FOOD",
+    "balanceCardNumber": null,
+    "isDelete": false
+  },
+  {
+    "id": "7fd80bd7-efa1-4b03-aa4c-421c2f046c23",
+    "ownerId": 616241032,
+    "businessName": ",mlml\\",
+    "businessType": "SPORT",
+    "balanceCardNumber": null,
+    "isDelete": false
+  }
+]
